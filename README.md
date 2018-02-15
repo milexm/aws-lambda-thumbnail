@@ -80,7 +80,5 @@ In the input dialog, enter the JSON input for your function, or select one of th
 <li><a href="http://docs.aws.amazon.com/lambda/latest/dg/welcome.html">AWS Lambda Developer Guide</a></li>
 </ul>
 
-<p><a href="mailto:aws-eclipse-feedback@amazon.com">Contact us</a> to send bug reports and feedbacks.</p>
-
-<p><strong><em>AWS SDK for Java team</em></strong></p>
+<p><a href="mailto:aws-eclipse-feedback@amazon.com">Contact aws eclipse</a> to send bug reports and feedbacks.</p>
 
